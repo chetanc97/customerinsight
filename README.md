@@ -1,2 +1,10 @@
-# customerinsight
-gives insight from customer data
+### Customerinsight
+Gives insight from customer data like revenue by ml prediction.
+
+### License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+### Star
+
+If you liked this , do encourage me with Star 个 [Star](https://github.com/deathstar1/chatbot) ⭐️ 
