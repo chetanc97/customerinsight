@@ -1,5 +1,5 @@
 ### Customerinsight
-Gives insight from customer data like revenue by ml prediction.
+Gives insight from customer data and revenue by simple ml predictions.
 
 ### License
 
